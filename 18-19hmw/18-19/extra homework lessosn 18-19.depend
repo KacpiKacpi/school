@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622912053 source:c:\users\kacper\desktop\extra homework lessosn 18-19\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
